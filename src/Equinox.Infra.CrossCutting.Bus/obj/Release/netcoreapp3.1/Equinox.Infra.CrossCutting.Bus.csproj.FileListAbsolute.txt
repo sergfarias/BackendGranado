@@ -1,0 +1,12 @@
+C:\Users\sergf\source\repos\EquinoxProject-master\src\Equinox.Infra.CrossCutting.Bus\bin\Release\netcoreapp3.1\Equinox.Infra.CrossCutting.Bus.deps.json
+C:\Users\sergf\source\repos\EquinoxProject-master\src\Equinox.Infra.CrossCutting.Bus\bin\Release\netcoreapp3.1\Equinox.Infra.CrossCutting.Bus.dll
+C:\Users\sergf\source\repos\EquinoxProject-master\src\Equinox.Infra.CrossCutting.Bus\bin\Release\netcoreapp3.1\Equinox.Infra.CrossCutting.Bus.pdb
+C:\Users\sergf\source\repos\EquinoxProject-master\src\Equinox.Infra.CrossCutting.Bus\bin\Release\netcoreapp3.1\Equinox.Domain.Core.dll
+C:\Users\sergf\source\repos\EquinoxProject-master\src\Equinox.Infra.CrossCutting.Bus\bin\Release\netcoreapp3.1\Equinox.Domain.Core.pdb
+C:\Users\sergf\source\repos\EquinoxProject-master\src\Equinox.Infra.CrossCutting.Bus\obj\Release\netcoreapp3.1\Equinox.Infra.CrossCutting.Bus.csprojAssemblyReference.cache
+C:\Users\sergf\source\repos\EquinoxProject-master\src\Equinox.Infra.CrossCutting.Bus\obj\Release\netcoreapp3.1\Equinox.Infra.CrossCutting.Bus.AssemblyInfoInputs.cache
+C:\Users\sergf\source\repos\EquinoxProject-master\src\Equinox.Infra.CrossCutting.Bus\obj\Release\netcoreapp3.1\Equinox.Infra.CrossCutting.Bus.AssemblyInfo.cs
+C:\Users\sergf\source\repos\EquinoxProject-master\src\Equinox.Infra.CrossCutting.Bus\obj\Release\netcoreapp3.1\Equinox.Infra.CrossCutting.Bus.csproj.CoreCompileInputs.cache
+C:\Users\sergf\source\repos\EquinoxProject-master\src\Equinox.Infra.CrossCutting.Bus\obj\Release\netcoreapp3.1\Equinox.Infra.CrossCutting.Bus.csproj.CopyComplete
+C:\Users\sergf\source\repos\EquinoxProject-master\src\Equinox.Infra.CrossCutting.Bus\obj\Release\netcoreapp3.1\Equinox.Infra.CrossCutting.Bus.dll
+C:\Users\sergf\source\repos\EquinoxProject-master\src\Equinox.Infra.CrossCutting.Bus\obj\Release\netcoreapp3.1\Equinox.Infra.CrossCutting.Bus.pdb

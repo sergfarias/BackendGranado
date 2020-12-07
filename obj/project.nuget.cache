@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iDnOLkj5s/fx35xBjP2TjujCrBeB3DmzV2Vipj5H/NAU0Xa3aBToc70xd75PV219lsmP6xPzfJTMavW/SiHIpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sergf\\source\\repos\\EquinoxProject-master\\EquinoxProject-master.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sergf\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Users\sergf\source\repos\EquinoxProject-master\src\Equinox.Domain.Core\bin\Debug\netcoreapp3.1\Equinox.Domain.Core.deps.json
+C:\Users\sergf\source\repos\EquinoxProject-master\src\Equinox.Domain.Core\bin\Debug\netcoreapp3.1\Equinox.Domain.Core.dll
+C:\Users\sergf\source\repos\EquinoxProject-master\src\Equinox.Domain.Core\bin\Debug\netcoreapp3.1\Equinox.Domain.Core.pdb
+C:\Users\sergf\source\repos\EquinoxProject-master\src\Equinox.Domain.Core\obj\Debug\netcoreapp3.1\Equinox.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\sergf\source\repos\EquinoxProject-master\src\Equinox.Domain.Core\obj\Debug\netcoreapp3.1\Equinox.Domain.Core.AssemblyInfo.cs
+C:\Users\sergf\source\repos\EquinoxProject-master\src\Equinox.Domain.Core\obj\Debug\netcoreapp3.1\Equinox.Domain.Core.dll
+C:\Users\sergf\source\repos\EquinoxProject-master\src\Equinox.Domain.Core\obj\Debug\netcoreapp3.1\Equinox.Domain.Core.pdb
+C:\Users\sergf\source\repos\EquinoxProject-master\src\Equinox.Domain.Core\obj\Debug\netcoreapp3.1\Equinox.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\sergf\source\repos\EquinoxProject-master\src\Equinox.Domain.Core\obj\Debug\netcoreapp3.1\Equinox.Domain.Core.csprojAssemblyReference.cache

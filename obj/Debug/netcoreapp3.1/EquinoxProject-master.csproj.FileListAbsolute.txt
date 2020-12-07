@@ -1,0 +1,4 @@
+C:\Users\sergf\source\repos\EquinoxProject-master\obj\Debug\netcoreapp3.1\EquinoxProject-master.csprojAssemblyReference.cache
+C:\Users\sergf\source\repos\EquinoxProject-master\obj\Debug\netcoreapp3.1\EquinoxProject-master.AssemblyInfoInputs.cache
+C:\Users\sergf\source\repos\EquinoxProject-master\obj\Debug\netcoreapp3.1\EquinoxProject-master.AssemblyInfo.cs
+C:\Users\sergf\source\repos\EquinoxProject-master\obj\Debug\netcoreapp3.1\EquinoxProject-master.csproj.CoreCompileInputs.cache

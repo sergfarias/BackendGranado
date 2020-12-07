@@ -1,0 +1,14 @@
+C:\Users\sergf\source\repos\EquinoxProject-master\src\Equinox.Domain\bin\Debug\netcoreapp3.1\Equinox.Domain.deps.json
+C:\Users\sergf\source\repos\EquinoxProject-master\src\Equinox.Domain\bin\Debug\netcoreapp3.1\Equinox.Domain.dll
+C:\Users\sergf\source\repos\EquinoxProject-master\src\Equinox.Domain\bin\Debug\netcoreapp3.1\Equinox.Domain.pdb
+C:\Users\sergf\source\repos\EquinoxProject-master\src\Equinox.Domain\bin\Debug\netcoreapp3.1\Equinox.Domain.Core.dll
+C:\Users\sergf\source\repos\EquinoxProject-master\src\Equinox.Domain\bin\Debug\netcoreapp3.1\Equinox.Infra.CrossCutting.Bus.dll
+C:\Users\sergf\source\repos\EquinoxProject-master\src\Equinox.Domain\bin\Debug\netcoreapp3.1\Equinox.Domain.Core.pdb
+C:\Users\sergf\source\repos\EquinoxProject-master\src\Equinox.Domain\bin\Debug\netcoreapp3.1\Equinox.Infra.CrossCutting.Bus.pdb
+C:\Users\sergf\source\repos\EquinoxProject-master\src\Equinox.Domain\obj\Debug\netcoreapp3.1\Equinox.Domain.csprojAssemblyReference.cache
+C:\Users\sergf\source\repos\EquinoxProject-master\src\Equinox.Domain\obj\Debug\netcoreapp3.1\Equinox.Domain.AssemblyInfoInputs.cache
+C:\Users\sergf\source\repos\EquinoxProject-master\src\Equinox.Domain\obj\Debug\netcoreapp3.1\Equinox.Domain.AssemblyInfo.cs
+C:\Users\sergf\source\repos\EquinoxProject-master\src\Equinox.Domain\obj\Debug\netcoreapp3.1\Equinox.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sergf\source\repos\EquinoxProject-master\src\Equinox.Domain\obj\Debug\netcoreapp3.1\Equinox.Domain.csproj.CopyComplete
+C:\Users\sergf\source\repos\EquinoxProject-master\src\Equinox.Domain\obj\Debug\netcoreapp3.1\Equinox.Domain.dll
+C:\Users\sergf\source\repos\EquinoxProject-master\src\Equinox.Domain\obj\Debug\netcoreapp3.1\Equinox.Domain.pdb
